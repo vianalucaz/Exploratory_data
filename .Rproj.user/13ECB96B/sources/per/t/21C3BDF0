@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628003508462.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4008874152",
+    "id" : "21C3BDF0",
+    "lastKnownWriteTime" : 1628003517,
+    "last_content_update" : 1628003517292,
+    "path" : "C:/Users/Lu_ca/OneDrive/Área de Trabalho/CURSOS/Trabalho/R/01 - Coursera/4 - Exploratory_data_analysis/Exploratory/plot4.R",
+    "project_path" : "plot4.R",
+    "properties" : {
+        "cursorPosition" : "41,9",
+        "scrollLine" : "27",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
